@@ -1,1 +1,1 @@
-print "Markus är dum"
+print "Markus är inte dum"
