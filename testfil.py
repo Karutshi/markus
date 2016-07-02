@@ -1,1 +1,1 @@
-print "Hej"
+print "Markus är dum"
